@@ -4,7 +4,6 @@
 - 🔭 Planejando trabalhar com front-end
 - 🌱 Estudando Javascript
 - 📫 Contate-me pelo e-mail: nilson.pagneto@gmail.com
-- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/NilsonPagnez">
