@@ -1,7 +1,7 @@
 ### Olá!! Sou Nilson Pagnez
 
 
-- 🔭 Planejando trabalhar com front-end
+- 🔭 Estagiário front-end
 - 🌱 Estudando Javascript
 - 📫 Contate-me pelo e-mail: nilson.pagneto@gmail.com
 
