@@ -2,7 +2,7 @@
 
 
 - 🔭 Estagiário front-end
-- 🌱 Estudando React Js
+- 🌱 React Js
 - 📫 Contate-me pelo e-mail: nilson.pagneto@gmail.com
 
 <div align="center">
