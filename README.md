@@ -4,6 +4,7 @@
 - 🔭 Front-end
 - 🌱 React Js
 - 📫 Contate-me pelo e-mail: nilson.pagneto@gmail.com
+- 📚 Cursando Engenharia de Software 3º período (Universidade de Vassouras)
 
 <div align="center">
   <a href="https://github.com/NilsonPagnez">
