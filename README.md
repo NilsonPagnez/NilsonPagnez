@@ -1,7 +1,7 @@
 ### Olá!! Sou Nilson Pagnez
 
 
-- 🔭 Estagiário front-end
+- 🔭 Front-end
 - 🌱 React Js
 - 📫 Contate-me pelo e-mail: nilson.pagneto@gmail.com
 
